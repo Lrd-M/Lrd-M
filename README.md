@@ -1,6 +1,8 @@
-📚CURSANDO:<br> 
-ETEC - Análise e Desenvolvimento de Sistemas.<br>
-FATEC - Desenvolvimento de Software Mutiplataforma.
+##
+
+📚ATUALMENTE CURSANDO:<br> 
+ETEC - Análise e Desenvolvimento de Sistemas 2/3<br>
+FATEC - Desenvolvimento de Software Mutiplataforma 1/6
 
 ##
 
