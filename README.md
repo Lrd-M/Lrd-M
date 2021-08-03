@@ -1,3 +1,10 @@
+📚CURSANDO: 
+
+ETEC - Análise e Desenvolvimento de Sistemas.
+FATEC - Desenvolvimento de Software Mutiplataforma.
+
+##
+
 <div>
   <a href="https://github.com/Lrd-M">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lrd-M&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
