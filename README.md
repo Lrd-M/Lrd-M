@@ -1,6 +1,5 @@
-📚CURSANDO: 
-
-ETEC - Análise e Desenvolvimento de Sistemas.
+📚CURSANDO:<br> 
+ETEC - Análise e Desenvolvimento de Sistemas.<br>
 FATEC - Desenvolvimento de Software Mutiplataforma.
 
 ##
