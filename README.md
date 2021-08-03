@@ -2,6 +2,7 @@
 
 📚ATUALMENTE CURSANDO:<br> 
 ETEC - Análise e Desenvolvimento de Sistemas 2/3<br>
+UNIP - Análise e Desenvolvimento de Sistemas 4/4<br>
 FATEC - Desenvolvimento de Software Mutiplataforma 1/6
 
 ##
