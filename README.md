@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>MY SOCIAL LINKS |
-     <a href=""><img align="center" alt="GMAIL" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+     <a href="https://mail.google.com/mail/u/0/?fs=1&to=leomachadosocial@gmail.com&su=&body=&bcc=&tf=cm"><img align="center" alt="GMAIL" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
      <a href="https://www.youtube.com/channel/UCqQjxvBuDkpxPXhwVF7FXFw"><img align="center" alt="YOUTUBE" src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
      <a href="https://www.instagram.com/lrdmzin/"><img align="center" alt="INSTAGRAM" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
      <a href="https://twitter.com/LRDMzin"><img align="center" alt="TWITTER" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
