@@ -7,7 +7,7 @@
      <a href="https://www.instagram.com/lrdmzin/"><img align="center" alt="INSTAGRAM" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
      <a href="https://twitter.com/LRDMzin"><img align="center" alt="TWITTER" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
      <a href="https://www.linkedin.com/in/leonardo-queir%C3%B3z-machado-606321198/"><img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-     <a href="https://discord.com/users/587398630814646291"><img align="center" alt="DISCORD" src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"></a>
+     <a href=""><img align="center" alt="DISCORD" src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>  
 
 <div align="center">
